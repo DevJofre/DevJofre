@@ -5,8 +5,8 @@ Olá! Me chamo Jofre e sou um estudante apaixonado pelo curso de Engenharia no I
 
 <div>
 <a href="https://github.com/Hakaizinho">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hakaizinho&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakaizinho&layout=compact&langs_count=7&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJofre&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJofre&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia
