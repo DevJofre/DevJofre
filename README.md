@@ -3,7 +3,6 @@
 Olá! Me chamo Jofre e sou um estudante apaixonado pelo curso de Engenharia no IFC (Instituto Federal Catarinense). Apesar de estar imerso nesse mundo da engenharia, há cerca de um ano, descobri outra paixão: a programação.
 ##
 
-#
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
