@@ -12,7 +12,7 @@ Olá! Me chamo Jofre e sou um estudante apaixonado pelo curso de Engenharia no I
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJofre&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
-
+#
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jofretomas.dev@gmail.com)
@@ -33,7 +33,7 @@ Olá! Me chamo Jofre e sou um estudante apaixonado pelo curso de Engenharia no I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
 </div>
-
+#
    
 
  
