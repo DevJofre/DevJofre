@@ -8,7 +8,8 @@ Olá! Me chamo Jofre e sou um estudante apaixonado pelo curso de Engenharia no I
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJofre&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJofre&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-
+  
+#
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -21,15 +22,15 @@ Olá! Me chamo Jofre e sou um estudante apaixonado pelo curso de Engenharia no I
   <img align="center" alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
+#
    
 
-#  
+ 
 </div><br/>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevJofre/DevJofre/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevJofre/DevJofre/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevJofre/DevJofre/output/github-contribution-grid-snake.svg">
 </picture>
-#
+
 
