@@ -8,6 +8,11 @@ Olá! Me chamo Jofre e sou um estudante apaixonado pelo curso de Engenharia no I
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJofre&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJofre&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jofretomas.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jofre-tomas-811113197/)
   
 
 ## Tecnologias que eu uso no meu dia
