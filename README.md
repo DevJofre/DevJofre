@@ -1,6 +1,6 @@
 ###  Olá! Eu sou o Jofre Tomas🐱‍👤
 ##
-Olá! Me chamo Jofre e sou um estudante apaixonado pelo curso de Engenharia no IFC (Instituto Federal Catarinense). Apesar de estar imerso nesse mundo da engenharia, há cerca de um ano, descobri outra paixão: a programação.
+Olá! Me chamo Jofre e sou um estudante apaixonado pelo curso de Sistema de Informação no IFC (Instituto Federal Catarinense). Apesar de estar imerso nesse mundo da engenharia, há cerca de um ano, descobri outra paixão: a programação.
 ##
 
 
