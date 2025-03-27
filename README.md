@@ -1,6 +1,6 @@
 ###  Olá! Eu sou o Jofre Tomas🐱‍👤
 ##
-Olá! Me chamo Jofre e sou um estudante apaixonado pelo curso de Sistema de Informação no IFC (Instituto Federal Catarinense). Apesar de estar imerso nesse mundo da engenharia, há cerca de um ano, descobri outra paixão: a programação.
+Meu nome é Jofre Tomas e sou natural de Salvador. Estou cursando Sistemas de Informação no IFC, onde tenho a oportunidade de aprender e crescer como profissional de tecnologia. Atualmente, trabalho como programador júnior , utilizando C#, .NET, React, Node.js® e TypeScript no meu dia a dia.
 ##
 
 
