@@ -14,7 +14,6 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:jofretomas.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/jofre-tomas-811113197/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=react&logoColor=FF00F6)](https://seu-portfolio.vercel.app/)
 
 
 ### 🤖 Linguagens e Tecnologias
