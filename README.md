@@ -4,7 +4,7 @@
 
 #
 
-<p align="center">Meu nome é Jofre Tomas, sou natural de Salvador. Estou cursando Sistemas de Informação no IFC, onde tenho a oportunidade de aprender e crescer como profissional de tecnologia. Atualmente, trabalho como programador júnior, utilizando C#, .NET, React e TypeScript no meu dia a dia.
+<p align="center">Meu nome é Jofre Tomas, sou natural de Salvador. Estou cursando Sistemas de Informação no IFC, onde tenho a oportunidade de aprender e crescer como profissional de tecnologia. Atualmente, trabalho como programador júnior, utilizando C#, .NET, React, TypeScript e Node.js no meu dia a dia.
   
 #
 
