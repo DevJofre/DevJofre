@@ -97,9 +97,10 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjofre&show_icons=true&locale=en&layout=compact" alt="devjofre" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjofre&show_icons=true&locale=en" alt="devjofre" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjofre&show_icons=true&locale=en&layout=compact" alt="devjofre" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjofre&show_icons=true&locale=en" alt="devjofre" />
+</div>
 
   </a>
 </div>
