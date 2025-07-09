@@ -101,7 +101,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjofre&show_icons=true&locale=en" alt="devjofre" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjofre&" alt="devjofre" /></p>
   </a>
 </div>
 
